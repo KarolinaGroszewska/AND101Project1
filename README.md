@@ -29,8 +29,7 @@ The following STRETCH features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='![Sep-14-2023 11-50-11](https://github.com/KarolinaGroszewska/AND101Project1/assets/40745949/20c75946-03fe-45ec-b9bc-a4d40ffcbf79)
-' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://github.com/KarolinaGroszewska/AND101Project1/blob/main/Sep-14-2023%2011-50-11.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **QuickTime and EzGif**
 
