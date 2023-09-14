@@ -1,4 +1,4 @@
-![Sep-14-2023 11-50-11](https://github.com/KarolinaGroszewska/AND101Project1/assets/40745949/c047ea8e-df31-47df-9c40-dbe5f9cbe1df)<!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
+<!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
 # AND101 Project 1 - Hello, Squirrel!
 
