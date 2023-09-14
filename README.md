@@ -1,4 +1,4 @@
-<!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
+![Sep-14-2023 11-50-11](https://github.com/KarolinaGroszewska/AND101Project1/assets/40745949/c047ea8e-df31-47df-9c40-dbe5f9cbe1df)<!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
 # AND101 Project 1 - Hello, Squirrel!
 
@@ -29,7 +29,8 @@ The following STRETCH features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://im5.ezgif.com/tmp/ezgif-5-4c60b143a4.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='![Sep-14-2023 11-50-11](https://github.com/KarolinaGroszewska/AND101Project1/assets/40745949/20c75946-03fe-45ec-b9bc-a4d40ffcbf79)
+' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **QuickTime and EzGif**
 
